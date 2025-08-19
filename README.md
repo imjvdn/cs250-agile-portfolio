@@ -37,7 +37,8 @@ This course solidified my understanding of modern software development practices
 
 ## Repository Contents
 
-- `Morrow-CS-250-Final.docx` - Sprint Review and Retrospective document
+- `Morrow-CS-250-Final.docx` - Sprint Review and Retrospective document (Word format)
+- `Sprint_Review_Retrospective.md` - Sprint Review and Retrospective document (Markdown format)
 - `README.md` - This portfolio overview and reflection
 
 ---
